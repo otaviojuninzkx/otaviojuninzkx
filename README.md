@@ -1,4 +1,5 @@
-- 👋 Meu nome é @otaviojuninzkx
+- 👋 Meu nome é @otaviojunior
+-
 - 👀 Estou aprentendo a programar 
 - 🌱 Estou no Ensino Médio
 - 💞️
